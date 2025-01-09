@@ -18,5 +18,4 @@ int main()
 	print_Queue(&queue);
 	printf("<%d, %d>\n", *ptr1, *ptr2);
 	return 0;
-
 	*/
